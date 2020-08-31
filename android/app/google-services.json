@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "354040619146",
+      "firebase_url": "https://noble-particle-277414.firebaseio.com",
+      "project_id": "noble-particle-277414",
+      "storage_bucket": "noble-particle-277414.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:354040619146:android:1c5dd806469bf2f105cd73",
+          "android_client_info": {
+            "package_name": "com.infomega.absensi"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "354040619146-vthtjnu9urt8otio9g04ve5s25mdis2v.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCep3jrhbMeVzUAD6P3IHfZKw8Y65OIVqQ"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "354040619146-vthtjnu9urt8otio9g04ve5s25mdis2v.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
